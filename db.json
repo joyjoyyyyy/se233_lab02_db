@@ -23,6 +23,17 @@
       "organizer": "Fern Pollin"
     },
     {
+      "id": 45345467,
+      "category": "food",
+      "title": "Community Planting",
+      "description": "Join us as we tend to the community edible plants.",
+      "location": "New York City",
+      "date": "March 23, 2022",
+      "time": "10:00",
+      "petsAllowed": true,
+      "organizer": "Mayzin Pollin"
+    },
+    {
       "id": 8419988,
       "category": "sustainability",
       "title": "Beach Cleanup",
